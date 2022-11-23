@@ -1,0 +1,171 @@
+Spanish conqueror soldier for Apollo @Alejandro Delgado 12-30-2007
+
+Author: Alejandro Delgado   
+
+
+Product Description:
+
+		This figure represents a Spanish conqueror soldier uniform and complemets.This pack has 2 posable figures,
+		3 props and  high quality textures.
+		
+		
+
+			
+		-using the figures:
+
+		The figures are made to be conformed to the Apollo Maximus figure.
+		If you want a outfit without helmet, just select the head body part of SCsuit or SCsuitSword and
+		make it not visible.
+			
+			- SCsuit:
+			
+			This uniform represents the spanish conqueror outfit without the sword and its cover and straps.
+			This uniform has no Gunpowder bags.
+ 
+			This outfit is a only one piece, so to conform to Apollo is very easy, Just conform the figure once
+			and you will have all the uniforms parts conformed to Apollo Maximus.
+
+			-SCsuitSword:
+
+			This uniform represents the Spanish comqueror with sword,its cover and straps and the Gunpowder bags.
+
+			This outfit is a only one piece, so to conform to Apollo is very easy. 
+			Just conform the figure once and you will have all the uniforms parts conformed
+			to Apollo Maximus.
+
+			This figure has some morph dials in two of its body parts.
+
+			-Chest body part:
+
+				You find here one morph dial, "noBags", if you put this dial to 1, then the Gunpowder bags
+				will be not visible.Put it to 0 value to make them visible again. The default value 
+				is 1, so when you open the figure you cannot see them.
+
+			-Abdomen body part:
+
+				You find in this body part several morph dials.
+
+				- noSword: If you put this dial to 1, the sword will be not visible.you have an empty cover
+				- Separate: If you put this dial to 1, the sword cover and the sword will be separate from
+					    the body.
+
+				- TurnUp: If you put this dial to 1, the sword cover and the sword will be rotated upwards.
+		
+
+
+	        - Using the props:
+
+
+		The props have not parents when they are open from the library.
+
+		You can set parents of each one in the properties window. 
+
+		The props are the next:
+		
+			- SCsword: this is the sword of the spanish conqueror.
+			- SCarcabuz: This is the arcabuz (an antique gun)
+			 	     It has one morph dial, "shoot", if you put this dial to 1, the trigger and other
+				     gun part will be moved.
+			-SCsupport: this is the support used to sustain the arcabuz, because it Weighed very much.
+		
+		
+
+		- Geometry information:
+			
+			Only for your information, this model has the next  facets (polygons):
+
+			SCsuit: 28022
+			SCsuitSword: 36518
+			SCarcabuz: 3901
+			SCsupport: 271
+			SCsword: 1559		  
+
+				
+
+					
+			
+
+
+
+System Requirements:
+		
+		PC version. ( It has been not tested in a Mac)
+
+		You need Poser 5 or later to use this item.
+
+		
+
+
+
+All of this product's content was created by Adh3d, Alejandro Delgado.
+
+
+
+
+Needed Files:
+ 		Although you don't need Apollo Maximus figure to use this item(To open the figures and props,and use them),
+		this item is designed to use with the Apollo Maximus figure. 
+
+
+
+
+Installation instructions:
+		
+		Unzip the zip file to you Poser folder, all the files will be put in their respective folder.
+		(It have been used Winzip 11.1 to create this zip file)
+		
+		-You can use the Spanish conqueror soldier  for Apollo  ,following the next steps:
+
+		(In Poser) Open your library ---> select figures ---> Adh3d ---> open the figure you want(you will see
+		a picture of them)
+
+
+		(In Poser) Open your library ---> select props ---> Adh3d ---> open the prop you want(you will see
+		a picture of them)
+
+		
+
+		
+		
+
+
+Usage Tips/Limitations:
+
+		You can use this figure,the props and its textures  for your comercial or not comercial renders 
+		and animations.
+
+		You cannot sell or share any of the files included in this zip file or the zip		
+		file itself.
+	
+	
+		
+
+
+
+Files list order by folders:
+
+..\runtime\libraries\character\adh3d\
+   SCsuit.cr2
+   SCsuit.obj
+   SCsuit.png
+   SCsuitSword.png
+   SCsuitSword.cr2
+   SCsuitSword.obj
+   Spanish conqueror soldier.txt
+   license.txt
+
+..\runtime\libraries\props\adh3d\
+   SCarcabuz.png
+   SCarcabuz.pp2
+   SCsupport.png
+   SCsupport.pp2
+   SCsword.png
+   SCsword.pp2
+
+..\runtime\textures\adh3d\Spanish conqueror soldier\
+   SCarcabuz.jpg
+   SCcloth.jpg
+   SCextra.jpg
+   SCsupport.jpg
+   SCsword.jpg
+

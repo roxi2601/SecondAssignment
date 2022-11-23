@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 44c0ac0345101284e951563e260fdef3
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base1
+    second: {fileID: 2100000, guid: 2b415af47b3c30b478ec7598456dd3a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: 993ea4710c6989b41907ccd29e904e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gun_metal_dec_20pc
+    second: {fileID: 2100000, guid: 721ed2cd6aec21b4f81aa4a260607846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Merged_Helmet_netting_10
+    second: {fileID: 2100000, guid: 7896a64e10324314b80eab0ecde20a3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: bbf707ffd34c67a44aef9f37fd8676bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: 686c64ab757b37a4cb5fab78cfaa0426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: US_marine_41_02_high_res1
+    second: {fileID: 2100000, guid: 2234545be2b38254da5f74d8b5a024f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: US_marine_43_05_low_res_for_tex_dec
+    second: {fileID: 2100000, guid: 7cfbb605f4a21564fbdbbc7ebbdf85ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_belt
+    second: {fileID: 2100000, guid: c8bc91603fde4034f8afa76cb9fef925, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_boot
+    second: {fileID: 2100000, guid: bcad2c07337489849ad4a7edc9dab7be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_helmet
+    second: {fileID: 2100000, guid: 7a2d49e50bfc527479b66443683b3d41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_jacket
+    second: {fileID: 2100000, guid: d202c3045a1a1014f9f1a35893e83b80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_l_hand
+    second: {fileID: 2100000, guid: 448cf2d4f3f281d4db62c0bb062a2eb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_laces
+    second: {fileID: 2100000, guid: 9f999beb33c11114697abbf90a1ab690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_net
+    second: {fileID: 2100000, guid: ea109d1af38c46140b207df3f040c388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_pouches1
+    second: {fileID: 2100000, guid: c4b5b24920cd774408266dd2a57ac1b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_sling
+    second: {fileID: 2100000, guid: 4deb1025f250fa643a658a0dd335f5e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_stock1
+    second: {fileID: 2100000, guid: dc9e4f5d97dfd364d9880496f62b51aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_trousers
+    second: {fileID: 2100000, guid: 4b0684901a89a2043890f8999cead5d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: new_water_bottle
+    second: {fileID: 2100000, guid: eafde23e719908f418ee7aa11f5edda4, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base1_NM
+    second: {fileID: 2800000, guid: 0e9590af466b1904c9916cf88e50ee43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base1_TXTR
+    second: {fileID: 2800000, guid: 07b291455341d3144959982f8c9edaad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grass_TXTR
+    second: {fileID: 2800000, guid: f7c13aa370495134abbabd83e462e3f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Merged_Helmet_netting_10_NM
+    second: {fileID: 2800000, guid: ca8e28c184ff16640882df31568eb454, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Merged_Helmet_netting_10_TXTR
+    second: {fileID: 2800000, guid: 29efd661ede691743af530ed3ee7669c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shirt_NM
+    second: {fileID: 2800000, guid: bbb971f297f0c904a9b9908e8ffe7610, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shirt_TXTR
+    second: {fileID: 2800000, guid: 6fd172b6c1c19e84282c931d3a2803f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: US_marine_41_02_high_res1_NM
+    second: {fileID: 2800000, guid: a35263f1f366839409429d48eeccf9b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: US_marine_41_02_high_res1_TXTR
+    second: {fileID: 2800000, guid: e8b261d4525597046992a2f67f927442, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: US_marine_43_05_low_res_for_tex_dec_TXTR
+    second: {fileID: 2800000, guid: 55760150ee38dcc458cc5c748930a1ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_belt_NM
+    second: {fileID: 2800000, guid: 0126108aff6d2634ea65cdda1c6024f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_belt_TXTR
+    second: {fileID: 2800000, guid: 7a865cff8460ab744ae35046f2f1356b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_boot_NM
+    second: {fileID: 2800000, guid: a51795ae9c5846f4c88c5ae518013670, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_boot_TXTR
+    second: {fileID: 2800000, guid: 147fc8200d6d66449a329b88d6819607, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_helmet_NM
+    second: {fileID: 2800000, guid: 0fc1f268cf9554d479c839a552af93e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_helmet_TXTR
+    second: {fileID: 2800000, guid: 977043449b808344f8047b4ddf44a64e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_jacket_NM
+    second: {fileID: 2800000, guid: 7b533076f30a32742b127bab8cb054ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_jacket_TXTR
+    second: {fileID: 2800000, guid: 20eacf4c66e21bb46876484b8fae24c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_l_hand_NM
+    second: {fileID: 2800000, guid: 502faf81ddcb1c54994ee0bc669cff01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_l_hand_TXTR
+    second: {fileID: 2800000, guid: 37a1604fddb842c428e3e19d50172e8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_pouches1_NM
+    second: {fileID: 2800000, guid: f93af61375feabf429ed177d924a0a7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_pouches1_TXTR
+    second: {fileID: 2800000, guid: ff7aa3c1180592546b84e41776f9f715, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_sling_NM
+    second: {fileID: 2800000, guid: 700090302085e2d4f876ed6bae8ff8e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_sling_TXTR
+    second: {fileID: 2800000, guid: 51e9501b77214da4a802d80d3eda17fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_stock1_NM
+    second: {fileID: 2800000, guid: b38c5a72e2bc3394f8c7491a5f621faf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_stock1_TXTR
+    second: {fileID: 2800000, guid: ea879a634d6aa9c40a97aa98a3bc77e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_trousers_NM
+    second: {fileID: 2800000, guid: f25d5ae78c9c5194e8084f8462b231ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_trousers_TXTR
+    second: {fileID: 2800000, guid: 991e9fd1a32a6c4459a95c47241c7105, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_water_bottle_NM
+    second: {fileID: 2800000, guid: 12573749f610cc44fb5777fa19602852, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: new_water_bottle_TXTR
+    second: {fileID: 2800000, guid: d120c5e25a559dc419980c73c4d1a67d, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
